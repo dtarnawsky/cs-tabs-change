@@ -1,0 +1,7 @@
+{
+  "name": "cs-tab-change",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
